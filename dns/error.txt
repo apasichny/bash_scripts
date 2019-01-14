@@ -1,0 +1,7 @@
+
+
+--------------------------------------------
+#####  WRONG IP #####
+reditectdetective.com  192.185.4.40
+ping: reditectdetective.com: Name or service not known
+--------DONE----------

@@ -1,0 +1,5 @@
+
+google.com  172.217.16.46  DNS OK
+youtube.com  172.217.20.206  DNS OK
+redirectdetective.com  192.185.4.40  DNS OK
+--------DONE----------

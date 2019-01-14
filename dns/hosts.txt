@@ -1,0 +1,4 @@
+172.217.16.46	google.com
+172.217.20.206	youtube.com
+192.185.4.40	reditectdetective.com
+192.185.4.40	redirectdetective.com
